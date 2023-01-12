@@ -1,0 +1,8 @@
+Viva BDF7699 CityCar TifannyBlue 1.0L 2018 Viva 100
+Myvi MCD5709 SubcompactCar Red 1.3L 2022 Myvi 130
+Bezza JGU3214 CompactSedan Black 1.3L 2019 Bezza 110
+Vios NFC2121 Sedan Silver 1.5L 2021 Vios 160
+CorollaCross Q8989 SUV Silver 1.8L 2022 Corolla 180
+Civic JCD1234 Sedan White 1.5L 2021 Civic 150
+HR-V WDC5873 SUV Red 1.8L 2021 HR-V 180
+320i SLT567 Sedan Blue 2.0L 2019 320i 200

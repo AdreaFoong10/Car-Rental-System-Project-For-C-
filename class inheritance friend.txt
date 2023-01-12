@@ -1,0 +1,37 @@
+class - 8
+1.logo - const & dest
+2.MainSelect1 - 3 function
+3.addpayment - 1 function
+4.CarMenu - 4 function
+5.Booking - 1 function
+6.MainSelect2 - 6 function  
+7.Admin - 15 function
+8.MainMenu - 1 function
+
+inheritance - 5
+1.MainMenu    -> public MainSelect1, public MainSelect2, public Admin
+2.MainSelect2 -> public class addpayment
+3.Admin -> public CarMenu
+
+friend - 2
+1.CarMenu -> friend class MainSelect2 (select,Menu,getinput)
+2.Booking -> friend class MainSelect2 (userbook)
+
+Struct CarDetails
+1.CD - user input(carcode), read 4 files
+2.CD2 - read CarMenu files (get the information and show in invoice)
+3.CD3 - show invoice for admin
+
+Struct Date
+1.d1 - get users input and show for the pick up date and also display in invoice
+2.d2 - get the current date store in date.txt and read date.txt -> comparison
+3.d3 - drop off date
+
+Struct Invoice
+1. get user name and show in invoice
+
+
+total function = 31
+
+9 txt files excluding create file
+14 txt files including create file (x ofstream)
